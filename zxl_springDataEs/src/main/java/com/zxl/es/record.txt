@@ -1,0 +1,4 @@
+http://localhost/entityController/save?id=2&name=人手井
+http://localhost/entityController/search?name=人手井
+
+用springdata时，es必须安装的是2.10版本
